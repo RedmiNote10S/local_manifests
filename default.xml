@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+    <project name="RedmiNote10S/android_device_redmi_rosemary" path="device/redmi/rosemary" revision="lineage-18.1" remote="github" />
+    <project name="RedmiNote10S/android_kernel_redmi_rosemary" path="kernel/redmi/rosemary" revision="VoidDev-0/windowz414/android-12-stable" remote="github" />
+    <project name="RedmiNote10S/proprietary_vendor_redmi_rosemary" path="vendor/redmi/rosemary" revision="lineage-18.1" remote="github" />
+    <project name="PixelExperience/device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" revision="eleven" remote="github" />
+    <project name="PixelExperience/vendor_mediatek-opensource" path="vendor/mediatek/opensource" revision="eleven" remote="github" />
+    <project name="PixelExperience/vendor_mediatek_interfaces" path="vendor/mediatek/interfaces" revision="eleven" remote="github" />
+    <project name="ProjectKasumi/vendor_gcgop" path="vendor/gcgop" revision="kasumi-v1" remote="github" />
+</manifest>
